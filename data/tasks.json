@@ -1,0 +1,242 @@
+[
+  {
+      "id": 1,
+      "title": {
+          "en": "Do the laundry",
+          "al": "Laj rrobat"
+      },
+      "completed": false
+  },
+  {
+      "id": 2,
+      "title": {
+          "en": "Buy groceries",
+          "al": "Bli ushqime"
+      },
+      "completed": false
+  },
+  {
+      "id": 3,
+      "title": {
+          "en": "Complete homework",
+          "al": "Përfundo detyrat e shtëpisë"
+      },
+      "completed": false
+  },
+  {
+      "id": 4,
+      "title": {
+          "en": "Read a book",
+          "al": "Lexo një libër"
+      },
+      "completed": false
+  },
+  {
+      "id": 5,
+      "title": {
+          "en": "Walk the dog",
+          "al": "Shetit qenin"
+      },
+      "completed": false
+  },
+  {
+      "id": 6,
+      "title": {
+          "en": "Clean the kitchen",
+          "al": "Pastro kuzhinën"
+      },
+      "completed": false
+  },
+  {
+      "id": 7,
+      "title": {
+          "en": "Take out the trash",
+          "al": "Hidher plehrat"
+      },
+      "completed": false
+  },
+  {
+      "id": 8,
+      "title": {
+          "en": "Write an email",
+          "al": "Shkruaj një email"
+      },
+      "completed": false
+  },
+  {
+      "id": 9,
+      "title": {
+          "en": "Call mom",
+          "al": "Telefonoj nënën"
+      },
+      "completed": false
+  },
+  {
+      "id": 10,
+      "title": {
+          "en": "Go for a run",
+          "al": "Shko për vrap"
+      },
+      "completed": false
+  },
+  {
+      "id": 11,
+      "title": {
+          "en": "Cook dinner",
+          "al": "Gatuaj darkën"
+      },
+      "completed": false
+  },
+  {
+      "id": 12,
+      "title": {
+          "en": "Do the dishes",
+          "al": "Laj enët"
+      },
+      "completed": false
+  },
+  {
+      "id": 13,
+      "title": {
+          "en": "Clean the bathroom",
+          "al": "Pastro banjën"
+      },
+      "completed": false
+  },
+  {
+      "id": 14,
+      "title": {
+          "en": "Organize the closet",
+          "al": "Organizo dollapin"
+      },
+      "completed": false
+  },
+  {
+      "id": 15,
+      "title": {
+          "en": "Take a shower",
+          "al": "Bëj një dush"
+      },
+      "completed": false
+  },
+  {
+      "id": 16,
+      "title": {
+          "en": "Buy a gift for a friend",
+          "al": "Bli një dhuratë për një mik"
+      },
+      "completed": false
+  },
+  {
+      "id": 17,
+      "title": {
+          "en": "Finish the project",
+          "al": "Përfundo projektin"
+      },
+      "completed": false
+  },
+  {
+      "id": 18,
+      "title": {
+          "en": "Attend the meeting",
+          "al": "Merr pjesë në takim"
+      },
+      "completed": false
+  },
+  {
+      "id": 19,
+      "title": {
+          "en": "Pick up dry cleaning",
+          "al": "Merr pastrimin kimik"
+      },
+      "completed": false
+  },
+  {
+      "id": 20,
+      "title": {
+          "en": "Go to the bank",
+          "al": "Shko në bankë"
+      },
+      "completed": false
+  },
+  {
+      "id": 21,
+      "title": {
+          "en": "Prepare breakfast",
+          "al": "Përgatit mëngjesin"
+      },
+      "completed": false
+  },
+  {
+      "id": 22,
+      "title": {
+          "en": "Write a blog post",
+          "al": "Shkruaj një postim në blog"
+      },
+      "completed": false
+  },
+  {
+      "id": 23,
+      "title": {
+          "en": "Take a nap",
+          "al": "Fli një sy gjumë"
+      },
+      "completed": false
+  },
+  {
+      "id": 24,
+      "title": {
+          "en": "Visit the dentist",
+          "al": "Vizito dentistin"
+      },
+      "completed": false
+  },
+  {
+      "id": 25,
+      "title": {
+          "en": "Go grocery shopping",
+          "al": "Shko për të bërë pazar"
+      },
+      "completed": false
+  },
+  {
+      "id": 26,
+      "title": {
+          "en": "Wash the car",
+          "al": "Laj makinën"
+      },
+      "completed": false
+  },
+  {
+      "id": 27,
+      "title": {
+          "en": "Write thank you cards",
+          "al": "Shkruaj kartolina falenderimi"
+      },
+      "completed": false
+  },
+  {
+      "id": 28,
+      "title": {
+          "en": "Check emails",
+          "al": "Kontrollo email-et"
+      },
+      "completed": false
+  },
+  {
+      "id": 29,
+      "title": {
+          "en": "Buy new shoes",
+          "al": "Bli këpucë të reja"
+      },
+      "completed": false
+  },
+  {
+      "id": 30,
+      "title": {
+          "en": "Plan weekend getaway",
+          "al": "Planifiko një pushim fundjave"
+      },
+      "completed": false
+  }
+]

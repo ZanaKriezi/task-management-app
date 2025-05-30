@@ -1,0 +1,56 @@
+{
+    "en": {
+        "title": "Task Management List",
+        "addTask": "Add Task",
+        "updateTask": "Update Task",
+        "delete": "Delete",
+        "edit": "Edit",
+        "done": "Done",
+        "sortBy": "Sort By:",
+        "searchByWord": "Search by word",
+        "searchPlaceholder": "Enter task name to search",
+        "applyFilters": "Apply",
+        "resetFilters": "Reset",
+        "filterByStatus": "Filter By Status:",
+        "all": "All",
+        "completed": "Completed",
+        "pending": "Pending",
+        "sortTitle": "Title",
+        "sortStatus": "Status",
+        "tableHeaders": {
+            "id": "#",
+            "task": "Your Task",
+            "status": "Status",
+            "actions": "Actions"
+        },
+        "login": "Login",
+        "logout": "Logout"
+    },
+    "al": {
+        "title": "Menaxhimi i Detyrave",
+        "addTask": "Shto Detyrë",
+        "updateTask": "Përditëso Detyrën",
+        "delete": "Fshij",
+        "edit": "Ndrysho",
+        "done": "Mbaro",
+        "sortBy": "Rendit sipas:",
+        "searchByWord": "Kërko sipas fjalës",
+        "searchPlaceholder": "Shkruaj emrin e detyrës për të kërkuar",
+        "applyFilters": "Zbato",
+        "resetFilters": "Rivendos",
+        "filterByStatus": "Filtro sipas statusit:",
+        "all": "Të gjitha",
+        "completed": "Përfunduar",
+        "pending": "Në pritje",
+        "sortTitle": "Titulli",
+        "sortStatus": "Statusi",
+        "tableHeaders": {
+            "id": "#",
+            "task": "Detyra juaj",
+            "status": "Statusi",
+            "actions": "Veprimet"
+        },
+        "login": "Hyr",
+        "logout": "Dil"
+    }
+}
